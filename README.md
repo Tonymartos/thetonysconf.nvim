@@ -2,7 +2,7 @@
 
 - Import configuration with
 
-``bash
+``
   git clone https://github.com/Tonymartos/thetonysconf.nvim.git ~/.config/nvim 
 ``
 ## Introduction
