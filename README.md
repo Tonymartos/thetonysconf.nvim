@@ -1,5 +1,10 @@
-# kickstart.nvim
+# thetonyconf.nvim
 
+- Import configuration with
+
+``bash
+  git clone https://github.com/Tonymartos/thetonysconf.nvim.git ~/.config/nvim 
+``
 ## Introduction
 
 A starting point for Neovim that is:
